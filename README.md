@@ -1,6 +1,6 @@
 # LegalSummerizer
 
-You can upload PDF, Word Docs, Text, and Image to summarize, it gives the summaries of them.
+You can upload PDF, Word Docs, Text, and Images of legal Documents, it gives summaries of them.
 
 I used a Pre-Trained model called Longformer Encoder-Decoder (LED), it's variant "allenai/led-base-16384" 
 
