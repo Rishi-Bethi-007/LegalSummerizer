@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+pdfplumber
+Pillow
+requests
+python-docx
+pytesseract
+tesseract-ocr
+tesseract
